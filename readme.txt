@@ -37,3 +37,5 @@ git init
 # Add changes to file in staging area: git add <filename>
 # Show staged files for next commit: git diff --staged
 # Commit files on staging area: git commit
+# Send files to server on github from destiny to origin: git push srv-fss master
+# Get files from server on github: git fetch srv-ssf or git pull srv-ssf
