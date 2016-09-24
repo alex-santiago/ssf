@@ -39,3 +39,7 @@ git init
 # Commit files on staging area: git commit
 # Send files to server on github from destiny to origin: git push srv-fss master
 # Get files from server on github: git fetch srv-ssf or git pull srv-ssf
+
+# Initializing a git rep
+git remote add <name> https://github.com/alex-santiago/4820-WP.git
+git push -u <name> master
